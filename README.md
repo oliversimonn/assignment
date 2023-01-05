@@ -4,8 +4,8 @@
 
 # Prerequisites
 
-###Maven version 3.0+
-###Java version 18+
+Maven version 3.0+ <br />
+Java version 18
 
 # Running app
 
